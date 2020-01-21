@@ -44,7 +44,7 @@ public class simple_calculator{
 		double b;
 		System.out.print("Enter the first number   : ");
 		a = key.nextDouble();
-		System.out.print("Entere the second number : ");
+		System.out.print("Enter the second number : ");
 		b = key.nextDouble();
 		String op;
 		System.out.print("Enter a number operation : ");
